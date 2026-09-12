@@ -37,11 +37,8 @@
   width: fit-content;
   max-height: 200px;
   */
-  height: 200px;
-  width: auto;
-  object-fit: cover;
-  flex-shrink: 0;
-  display: block;
+  width: fit-content;
+  max-height: 200px;
 }
 
 .img-card-400 {
