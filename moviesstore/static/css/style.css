@@ -40,6 +40,8 @@
   height: 200px;
   width: auto;
   object-fit: cover;
+  flex-shrink: 0;
+  display: block;
 }
 
 .img-card-400 {
